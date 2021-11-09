@@ -1,2 +1,1 @@
-# Time-Series-Homework
-Time Series Fintech Homework
+# Machine Learning Homework
